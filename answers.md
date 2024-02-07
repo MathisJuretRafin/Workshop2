@@ -6,6 +6,11 @@ We can create the torrent file to contain the result of the command above : ![im
 
 For the partition1 : ![image](https://github.com/MathisJuretRafin/Workshop2/assets/148776485/29d9022b-4a2f-4d84-9cae-cff3ab2c4597)
 
+Q3 : ![image](https://github.com/MathisJuretRafin/Workshop2/assets/148776485/77d6b15e-90e2-454d-9048-5dec18a22281)
+
+Nothing changes except the name of the path
+
+
 
 
 
