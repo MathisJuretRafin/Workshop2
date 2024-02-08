@@ -144,6 +144,8 @@ And after a check of the information of the torrent file, we can see that only t
 
 ## Decentralized website
 
+We download the github content of : https://github.com/popovoleksandr/ipfs-pinata-deploy-action
+
 
 
 
